@@ -1,0 +1,1364 @@
+2025-03-14 09:16:16,441 - INFO - "GET /?state=nTlXNnDnDwseOgGqYcJltE3YoXxnc3&code=4/0AQSTgQEtumRpJVAc5LivSr8MITs7JfuhvDu0vRpiCpc4V9gN6GZMvx2guwzofOwdo07zag&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-03-14 09:25:08,487 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "service": "gmail.googleapis.com",
+          "containerInfo": "344271761187",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:08,488 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "service": "gmail.googleapis.com",
+          "containerInfo": "344271761187",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:08,808 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:08,809 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,127 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,128 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,449 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,450 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,781 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:25:09,782 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:27:40,106 - INFO - "GET /?state=KzozkxgMZcbuKbxyIplUNAFy0uMqqE&code=4/0AQSTgQEY3KIONtwt2wgxXjx-eAAYaJWie--2mnwbAoYPdmPAZ6RQN52FL4o-bDFFLPJ3GA&scope=https://www.googleapis.com/auth/gmail.send HTTP/1.1" 200 65
+2025-03-14 09:28:47,799 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:47,800 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "serviceTitle": "Gmail API",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:48,151 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:48,151 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "containerInfo": "344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:49,285 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:49,285 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:49,881 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:49,881 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:50,217 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:28:50,217 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:39,492 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:39,493 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "service": "gmail.googleapis.com"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:39,829 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:39,830 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "containerInfo": "344271761187",
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187",
+          "serviceTitle": "Gmail API"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:40,292 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:40,292 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:40,624 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:40,624 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "containerInfo": "344271761187",
+          "serviceTitle": "Gmail API",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "consumer": "projects/344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:41,058 - ERROR - Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:32:41,058 - ERROR - An error occurred: Failed to send email. Status code: 403, Response: {
+  "error": {
+    "code": 403,
+    "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+    "errors": [
+      {
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry.",
+        "domain": "usageLimits",
+        "reason": "accessNotConfigured",
+        "extendedHelp": "https://console.developers.google.com"
+      }
+    ],
+    "status": "PERMISSION_DENIED",
+    "details": [
+      {
+        "@type": "type.googleapis.com/google.rpc.ErrorInfo",
+        "reason": "SERVICE_DISABLED",
+        "domain": "googleapis.com",
+        "metadata": {
+          "service": "gmail.googleapis.com",
+          "serviceTitle": "Gmail API",
+          "consumer": "projects/344271761187",
+          "activationUrl": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187",
+          "containerInfo": "344271761187"
+        }
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.LocalizedMessage",
+        "locale": "en-US",
+        "message": "Gmail API has not been used in project 344271761187 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+      },
+      {
+        "@type": "type.googleapis.com/google.rpc.Help",
+        "links": [
+          {
+            "description": "Google developers console API activation",
+            "url": "https://console.developers.google.com/apis/api/gmail.googleapis.com/overview?project=344271761187"
+          }
+        ]
+      }
+    ]
+  }
+}
+
+2025-03-14 09:35:17,563 - INFO - Message Id: 19594ddcb96de15f sent successfully
+2025-03-14 09:35:20,892 - INFO - Message Id: 19594ddd44b29cdd sent successfully
+2025-03-14 09:35:23,507 - INFO - Message Id: 19594dde11bed2a7 sent successfully
+2025-03-14 09:35:26,135 - INFO - Message Id: 19594ddeb8fbf25e sent successfully
+2025-03-14 09:35:28,893 - INFO - Message Id: 19594ddf4fcbeb1c sent successfully
+2025-03-14 12:22:31,877 - INFO - Message Id: 1959576e64730ba2 sent successfully
+2025-03-14 12:22:34,606 - INFO - Message Id: 1959576f1f49f00e sent successfully
+2025-03-14 12:22:37,318 - INFO - Message Id: 1959576fa1133c6b sent successfully
+2025-03-14 12:22:40,016 - INFO - Message Id: 195957706abf5f8d sent successfully
+2025-03-14 12:22:42,709 - INFO - Message Id: 19595771193ff774 sent successfully
+2025-03-14 12:37:43,542 - INFO - Message Id: 1959584cf48d32b0 sent successfully
+2025-03-14 12:37:46,161 - INFO - Message Id: 1959584da46ec3e2 sent successfully
+2025-03-14 12:37:48,821 - INFO - Message Id: 1959584e5c6b9cbb sent successfully
+2025-03-14 12:37:51,408 - INFO - Message Id: 1959584efabbfb69 sent successfully
+2025-03-14 12:37:54,052 - INFO - Message Id: 1959584f9928d790 sent successfully
+2025-03-14 12:42:39,884 - INFO - Message Id: 1959589559f6ecaa sent successfully
+2025-03-14 12:42:42,478 - INFO - Message Id: 19595895f55f7c20 sent successfully
+2025-03-14 12:42:45,083 - INFO - Message Id: 19595896957f25d4 sent successfully
+2025-03-14 12:42:47,756 - INFO - Message Id: 1959589741851c92 sent successfully
+2025-03-14 12:42:50,397 - INFO - Message Id: 19595897eac280f4 sent successfully
+2025-03-14 12:45:43,568 - INFO - Message Id: 195958c232b059c3 sent successfully
+2025-03-14 12:45:46,170 - INFO - Message Id: 195958c2cb45e80e sent successfully
+2025-03-14 12:45:48,776 - INFO - Message Id: 195958c367e32bd3 sent successfully
+2025-03-14 12:45:51,378 - INFO - Message Id: 195958c41c8eddda sent successfully
+2025-03-14 12:45:54,172 - INFO - Message Id: 195958c4b10e505a sent successfully
+2025-03-14 12:51:04,072 - INFO - Message Id: 195959107868440f sent successfully
+2025-03-14 12:51:07,096 - INFO - Message Id: 195959111dd47186 sent successfully
+2025-03-14 12:51:09,685 - INFO - Message Id: 19595911d04e2480 sent successfully
+2025-03-14 12:51:12,299 - INFO - Message Id: 1959591265f8b97c sent successfully
+2025-03-14 12:51:14,933 - INFO - Message Id: 19595913042d4278 sent successfully
+2025-03-14 13:40:36,298 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-14 13:40:38,232 - WARNING - Encountered 403 Forbidden with reason "insufficientPermissions"
+2025-03-14 13:53:43,162 - INFO - file_cache is only supported with oauth2client<4.0.0
+2025-03-14 13:53:44,733 - WARNING - Encountered 403 Forbidden with reason "insufficientPermissions"
+2025-03-14 13:56:11,043 - INFO - "GET /?state=l0qJ7FOaDRlhM388lqGJDXK5GFxsEn&code=4/0AQSTgQHK4Q7bVKiPiHht0KP1VCCrCKCUWKyPT3SBS0df0vme0lOtyHkK02ScKhj7EGLqKg&scope=email%20profile%20https://www.googleapis.com/auth/gmail.send%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=0&prompt=consent HTTP/1.1" 200 65
+2025-03-14 14:00:47,868 - INFO - "GET /?state=Zarx4sIHdcfo6gRGpm4ccdX7dXoBxt&code=4/0AQSTgQGFQ3vRFyZqnJE_1AFANsHQnRWAskXBjkcl7BrutCg1Iyh01Wv0gSWLd0Px0fUvsw&scope=email%20profile%20https://www.googleapis.com/auth/gmail.send%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1" 200 65
+2025-03-14 14:07:37,315 - INFO - "GET /?state=47uebDS1DZVFxWm2pScvJX7ps6wNBC&code=4/0AQSTgQHKLitp1rvV-H_BYcAAiwII27MVj5RHbK0nb2h-mx14gVErshIAi6nMcLzt5FAq0w&scope=email%20profile%20https://www.googleapis.com/auth/gmail.send%20openid%20https://www.googleapis.com/auth/userinfo.profile%20https://www.googleapis.com/auth/userinfo.email&authuser=1&prompt=consent HTTP/1.1" 200 65
+2025-03-14 14:08:23,517 - INFO - Message Id: 19595d7d0ce632c3 sent successfully
+2025-03-14 14:08:26,030 - INFO - Message Id: 19595d7daf245560 sent successfully
+2025-03-14 14:08:28,527 - INFO - Message Id: 19595d7e4396f1ca sent successfully
+2025-03-14 14:08:31,032 - INFO - Message Id: 19595d7efbf3500f sent successfully
+2025-03-14 14:08:33,607 - INFO - Message Id: 19595d7f898878fb sent successfully
